@@ -1,0 +1,59 @@
+html{
+    background-color:black;
+}
+
+.main_container{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.header_container{
+    display: flex;
+    color: chartreuse;
+    width: 200px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+#text_container{
+    color: coral;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+
+.my_bio{
+    padding-left: 60px;
+    color: honeydew;
+    font-size: 15px;
+}
+
+#my_text2{
+    color: aquamarine;
+}
+    
+#my_text1{
+    font-size: 20px;
+    
+}
+
+
+img{
+    height: 400px;
+    border-radius: 5px;
+    flex: 1;
+    
+    
+}
+
+#image_container{
+    margin-left: 20px;
+    margin-top: 150px;
+}
+
+#my_link{
+    color:darkgoldenrod; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
